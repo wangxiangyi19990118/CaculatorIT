@@ -6,7 +6,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-//00000000000000
+//00000000000000000
 public class MainActivity extends AppCompatActivity {
     private double Firstnumber = 0;//第一次按键结果
     private double Secondnumber = 0;//第二次按键结果
