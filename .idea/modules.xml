@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Caculator_Test-from-ZQX.iml" filepath="$PROJECT_DIR$/Caculator_Test-from-ZQX.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyCalculator.iml" filepath="$PROJECT_DIR$/MyCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaculatorIT.iml" filepath="$PROJECT_DIR$/CaculatorIT.iml" />
+      <module fileurl="file://C:\Users\wxy\Documents\GitHub\CaculatorIT\MyCalculator.iml" filepath="C:\Users\wxy\Documents\GitHub\CaculatorIT\MyCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
